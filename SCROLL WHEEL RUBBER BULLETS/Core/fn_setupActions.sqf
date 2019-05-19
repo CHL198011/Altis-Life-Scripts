@@ -1,0 +1,2 @@
+life_actions = life_actions + [player addAction["<t color='#51FF00'>Load Rubber Bullets</t>",{player setVariable ['nonLethals',true,true];},"",0,false,false,"",'(!(player getVariable ["nonLethals",false])']];
+life_actions = life_actions + [player addAction["<t color='#FF0000'>Load Lethal Bullets</t>",{player setVariable ['nonLethals',false,true];},"",0,false,false,"",'((player getVariable ["nonLethals",false])']];

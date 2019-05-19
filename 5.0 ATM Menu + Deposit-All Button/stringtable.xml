@@ -1,0 +1,5 @@
+Add Under STR_ATM_Deposit
+
+    <Key ID="STR_ATM_Deposit_All">
+        <Original>Deposit All</Original>
+    </Key>

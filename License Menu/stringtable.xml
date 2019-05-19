@@ -1,0 +1,17 @@
+Add
+
+<Key ID="STR_MAR_DMV">
+            <Original>DMV</Original>
+        </Key>
+
+<Package name="Licenses_Menu">  
+		<Key ID="STR_Licenses_Title">  
+			<Original>Licenses</Original>  
+		</Key>  
+		<Key ID="STR_My_Licenses">  
+			<Original>Available</Original>  
+		</Key>  
+		<Key ID="STR_Show_Licenses">  
+			<Original>My Licenses</Original>
+		</Key>  
+	</Package>

@@ -1,0 +1,7 @@
+<Key ID="STR_Bus_Cost">
+		<Original>You need $%1 to go to this destination!</Original>
+		<German>Sie müssen $ %1 um zu diesem Ziel zu gehen!</German>
+		<French>Vous devez $ %1 pour aller à cette destination!</French>
+		<Italian>Avete bisogno di $%1 per andare a questa destinazione!</Italian>
+		<Portuguese>Você precisa $ %1 para ir para este destino!</Portuguese>
+	</Key>
